@@ -1,5 +1,4 @@
 # Skrypt do tworzenia konta Home.pl
-## Cel skryptu
 
 ## Skrypt ma na celu automatyzację procesu tworzenia nowego konta e-mail na platformie Home.pl. Zadaniem skryptu jest:
 
